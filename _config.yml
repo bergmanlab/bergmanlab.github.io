@@ -306,7 +306,7 @@ defaults:
       # excerpt: "Research driven tool design."
       header:
         # image: /assets/images/Cells.jpg
-        overlay_image: /assets/images/CMOS_Render3.png
+        overlay_image: /assets/images/banner.png
         overlay_filter: 0.3
   # _posts
   - scope:
@@ -328,6 +328,6 @@ defaults:
       # excerpt: "Research driven tool design."
       header:
         # image: /assets/images/Cells.jpg
-        overlay_image: /assets/images/CMOS_Render3.png
+        overlay_image: /assets/images/banner.png
         overlay_filter: 0.3
         

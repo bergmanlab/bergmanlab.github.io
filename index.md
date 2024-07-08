@@ -1,7 +1,7 @@
 ---
 title: "Welcome to the Bergman Lab" 
 header:
-  overlay_image: /assets/images/CMOS_Render3.png
+  overlay_image: /assets/images/banner.png
   overlay_filter: 0.3
   actions:
           - label: "Join our team"
