@@ -1,0 +1,23 @@
+main:
+  - title: "People"
+    url: /People/
+  - title: "Research"
+    url: /Research/
+  - title: "Publications"
+    url: /Publications/
+  - title: "Blog"
+    url: /Blog/
+  - title: "Join"
+    url: /Join/
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/

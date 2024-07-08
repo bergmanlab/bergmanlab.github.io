@@ -1,0 +1,26 @@
+casey:
+  name: Casey Bergman
+  department:  Department of Genetics & Institute of Bioinformatics, UGA
+  email: cbergman@uga.edu
+  image: casey_bergman.jpg
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0002-5462-9854
+    - icon: fa-brands fa-github
+      link: https://github.com/cbergman
+    - icon: fa-brands fa-twitter
+      link: https://twitter.com/caseybergman
+
+oliver:
+  name: Oliver Levine
+  department: Institute of Bioinformatics, UGA
+  email: oliverklevine@uga.edu
+  image: oliver_levine.jpg
+  links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0009-0009-4550-4425
+    - icon: fa-brands fa-github
+      link: https://github.com/OliverKLevine
+
+parisha:
+  name: Parisha Rahman
