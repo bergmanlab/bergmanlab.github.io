@@ -6,8 +6,7 @@ title: "Lab Members"
 
 ![image](/People/casey_bergman.jpg)
 
-**Casey Bergman, PhD**. Assistant Professor, Department of Genetics & Institute of Bioinformatics, UGA
-cbergman@uga.edu
+{% include person.html name='casey' %}
 
 ## Graduate Students
 

@@ -2,7 +2,6 @@ casey:
   name: Casey Bergman
   department:  Department of Genetics & Institute of Bioinformatics, UGA
   email: cbergman@uga.edu
-  image: casey_bergman.jpg
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0000-0002-5462-9854
