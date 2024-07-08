@@ -2,6 +2,8 @@ This lab website based on Aharoni lab site https://github.com/Aharoni-Lab/Aharon
 
 # Instructions for updating / maintaining website
 
+After making changes, make sure to run `bundle install` before pushing (I think.)
+
 ## Home
 
 To update the home page, edit the [/index.md](https://github.com/bergmanlab/bergmanlab.github.io/blob/main/index.md) file
@@ -24,3 +26,4 @@ These pages can be edited at their respective /FOLDER/index.md files.
 ## Blog
 
 To create a blog post, add it to the /_posts/ folder as a md file with the name YYYY-MM-DD-POSTNAME.md
+
