@@ -8,13 +8,13 @@
 <loc>http://localhost:4000/Blog/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/Publications/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/Research/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/Join/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/Publications/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/People/</loc>
