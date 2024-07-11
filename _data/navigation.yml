@@ -1,8 +1,8 @@
 main:
-  - title: "People"
-    url: /People/
   - title: "Research"
     url: /Research/
+  - title: "People"
+    url: /People/
   - title: "Publications"
     url: /Publications/
   - title: "Blog"
