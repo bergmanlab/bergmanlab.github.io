@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -26,11 +26,13 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 keywords:
-  - Transposon
-  - Mobile Elements
-  - Yeast Genetics
-  - Fly Genetics
-logo: /assets/images/casey_profile.jpg
+  - Genome Informatics
+  - Genome Evolution
+  - Noncoding DNA
+  - Mobile DNA
+  - Genetics
+  - Bioinformatics
+logo: /assets/images/slow-food-logo-redlarge.jpg
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
@@ -86,7 +88,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : caseybergman
+  username               : bergmanlab
 facebook:
   username               :
   app_id                 :
@@ -111,7 +113,7 @@ analytics:
 author:
   name             : "Casey Bergman"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor."
+  bio              : "Associate Professor."
   location         : "Athens, GA"
   email            :
   links:
@@ -139,7 +141,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/caseybergman
+      url: https://twitter.com/bergmanlab
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
