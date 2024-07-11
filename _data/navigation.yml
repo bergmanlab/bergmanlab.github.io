@@ -1,12 +1,12 @@
 main:
   - title: "Research"
     url: /Research/
-  - title: "People"
-    url: /People/
   - title: "Publications"
     url: /Publications/
   - title: "Blog"
     url: /Blog/
+  - title: "People"
+    url: /People/
   - title: "Join"
     url: /Join/
 
