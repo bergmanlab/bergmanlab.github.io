@@ -8,10 +8,10 @@ Contributions from Bergman Lab members are underlined in the publication list be
 <span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (submitted) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. [<a href="https://www.biorxiv.org/content/10.1101/2023.12.20.572574v1">preprint</a>]
 
 ## 2024
-Hannon-Hatfield, J.A., <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">C.M. Bergman</span> &amp;&nbsp; D.J. Garfinkel (in prep) Evolution of a restriction factor by domestication of a yeast retrotransposon.
+Hannon-Hatfield, J.A., <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">C.M. Bergman</span> &amp;&nbsp; D.J. Garfinkel (2024) Evolution of a restriction factor by domestication of a yeast retrotransposon. <a href="https://academic.oup.com/mbe/article/41/3/msae050/7621844" rel="nofollow"><em>Mol. Biol. Evol.</em> <strong>41</strong>:msae050</a>.
 
 ## 2023
-<span style="text-decoration: underline;">Chen, J.</span> (2023) Bioinformatics and evolutionary genomics of transposable elements in yeast. Ph.D. Thesis, University of Georgia, USA.
+<span style="text-decoration: underline;">Chen, J.</span> (2023) <a href="https://www.proquest.com/docview/2917422789" rel="nofollow">Bioinformatics and evolutionary genomics of transposable elements in yeast.</a> Ph.D. Thesis, University of Georgia, USA.
 
 <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">P.J. Basting</span>, <span style="text-decoration: underline;">S. Han</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (2023) Reproducible evaluation of transposable element detectors with  McClintock 2 guides accurate inference of Ty insertion patterns in yeast. <a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-023-00296-4" rel="nofollow"><em>Mobile DNA</em> <strong>14</strong>:8</a>.
 
