@@ -26,6 +26,8 @@ title: "Lab Members"
 
 {% include person.html name='shunhua' %}
 
+{% include person.html name='mar' %}
+
 {% include person.html name='florence' %}
 
 {% include person.html name='manee' %}
@@ -38,10 +40,26 @@ title: "Lab Members"
 
 {% include person.html name='joachim' %}
 
+{% include person.html name='mark' %}
+
+{% include person.html name='laurent' %}
+
+{% include person.html name='miaomiao' %}
+
 {% include person.html name='pedro' %}
 
 {% include person.html name='martin' %}
 
+{% include person.html name='jamie' %}
+
 {% include person.html name='raquel' %}
 
 {% include person.html name='michael-b' %}  
+
+{% include person.html name='sonia' %}  
+
+{% include person.html name='nora' %}  
+
+{% include person.html name='francesco' %}  
+
+{% include person.html name='winfried' %} 

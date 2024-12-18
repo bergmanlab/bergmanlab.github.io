@@ -11,7 +11,7 @@ casey:
     - icon: fa-brands fa-github
       link: https://github.com/cbergman
     - icon: fa-brands fa-twitter
-      link: https://twitter.com/caseybergman
+      link: https://x.com/caseybergman
     - icon: fa-brands fa-bluesky
       link: https://bsky.app/profile/caseybergman.bsky.social
 
@@ -48,42 +48,176 @@ parisha:
 
 jingxuan:
   name: Jingxuan Chen
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/JingxuanChen7
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/jingxuan-chen712/            
+    - icon: fa-brands fa-twitter
+      link: https://x.com/JingxuanChen712
 
 preston:
-  name: Jingxuan Chen
+  name: Preston Basting
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/pbasting
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/preston-basting-6a0b00167/       
 
 gui: 
   name: Guilherme Dias
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/gbdias
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/guilherme-dias-53529b7b/          
+    - icon: fa-brands fa-twitter
+      link: https://x.com/guilherme_diasb
 
 shunhua: 
   name: Shunhua Han
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/shunhuahan
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/shunhua-han/      
+    - icon: fa-brands fa-twitter
+      link: https://x.com/hanshunhua
+
+mar: 
+  name: Mar Marzo
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/mmarzo
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/mar-marzo-1290664/    
+    - icon: fa-brands fa-twitter
+      link: https://x.com/nunatac
 
 florence: 
   name: Florence Gutzwiller
-  
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/mqbpjfg2
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/florence-gutzwiller-506765200/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/Florence_Gtz
+
 manee: 
   name: Manee Manee
-  
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/MManee
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/manee-manee/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/eng_manee
+
 michael-n: 
   name: Michael Nelson 
-  
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/nelson42
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/nelson42/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/nels42
+
 dave:
-  name: Dave Gerard
-  
+  name: Dave Gerrard
+  links:
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/dave-gerrard-30105836/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/ginReaper
+
 max:
   name: Maximilian Haeussler
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/maximilianh
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/maximilian-haeussler-4824954/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/maximilianh
   
 joachim:
   name: Joachim Baran
-  
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/KimJBaran
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/joachim-baran-22594745/
+
+mark:
+  name: Mark Richardson
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/m-richardson
+    - icon: fa-brands fa-twitter
+      link: https://x.com/MF_Richardson
+
+laurent:
+  name: Laurent Frantz
+  links:
+    - icon: fa-brands fa-twitter
+      link: https://x.com/LrFrantz  
+
+miaomiao:
+  name: Mioamiao He
+
 pedro:
   name: Pedro Olivares-Chauvet
-  
+
 martin:
   name: Martin Gerner
-  
+
+jamie:
+  name: Jamie McPherson
+  links:
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/jamie-macpherson-0531442a/
+
 raquel: 
   name: Raquel Linheiro
-  
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/raquel-linheiro
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/raquel-linheiro-50883873/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/raqueldsl95
+
 michael-b: 
   name: Michael Barton
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/michaelbarton
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/michael-barton-70bb7716/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/bioinformatics
+
+sonia: 
+  name: Sonia Casillas
+  links:
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/s%C3%B2nia-casillas-571b0b115/
+    - icon: fa-brands fa-twitter
+      link: https://x.com/scasillasv     
+
+nora: 
+  name: Nora Pierstorff
+  links:
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/nora-pierstorff-302640158/
+         
+francesco:
+  name: Francesco Catania
+  links:
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/francesco-catania-68319b1a4/
+
+winfried:
+  name: Winfried Hense         
