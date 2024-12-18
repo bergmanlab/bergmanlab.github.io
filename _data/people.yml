@@ -6,6 +6,8 @@ casey:
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0000-0002-5462-9854
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/casey-bergman-339547/     
     - icon: fa-brands fa-github
       link: https://github.com/cbergman
     - icon: fa-brands fa-twitter
@@ -21,6 +23,8 @@ oliver:
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0009-0009-4550-4425
+    - icon: fa-brands fa-linkedin  
+      lin: https://www.linkedin.com/in/oliver-levine-557036273/
     - icon: fa-brands fa-github
       link: https://github.com/OliverKLevine
     - icon: fa-brands fa-bluesky
