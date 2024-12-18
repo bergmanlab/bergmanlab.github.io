@@ -37,7 +37,9 @@ ibukun:
   image: ibukun_tella.jpg
   links:
     - icon: fa-brands fa-orcid
-      link: 
+      link: https://orcid.org/0009-0008-1970-7301
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/ibukunoluwa-tella/     
     - icon: fa-brands fa-github
       link: https://github.com/IbukunT      
 
