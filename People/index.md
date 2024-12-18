@@ -28,6 +28,8 @@ title: "Lab Members"
 
 {% include person.html name='mar' %}
 
+{% include person.html name='john' %}
+
 {% include person.html name='florence' %}
 
 {% include person.html name='manee' %}

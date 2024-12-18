@@ -52,6 +52,8 @@ parisha:
 jingxuan:
   name: Jingxuan Chen
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0001-6313-7264
     - icon: fa-brands fa-github
       link: https://github.com/JingxuanChen7
     - icon: fa-brands fa-linkedin  
@@ -62,6 +64,8 @@ jingxuan:
 preston:
   name: Preston Basting
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0001-9290-8339
     - icon: fa-brands fa-github
       link: https://github.com/pbasting
     - icon: fa-brands fa-linkedin  
@@ -70,6 +74,8 @@ preston:
 gui: 
   name: Guilherme Dias
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0002-1459-3148
     - icon: fa-brands fa-github
       link: https://github.com/gbdias
     - icon: fa-brands fa-linkedin  
@@ -80,6 +86,8 @@ gui:
 shunhua: 
   name: Shunhua Han
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0002-8605-7547  
     - icon: fa-brands fa-github
       link: https://github.com/shunhuahan
     - icon: fa-brands fa-linkedin  
@@ -90,12 +98,22 @@ shunhua:
 mar: 
   name: Mar Marzo
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0003-1591-0309  
     - icon: fa-brands fa-github
       link: https://github.com/mmarzo
     - icon: fa-brands fa-linkedin  
       link: https://www.linkedin.com/in/mar-marzo-1290664/    
     - icon: fa-brands fa-twitter
       link: https://x.com/nunatac
+
+john: 
+  name: John Jackson
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/jjackson0308
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/john-jackson-b7140586/
 
 florence: 
   name: Florence Gutzwiller
@@ -110,6 +128,8 @@ florence:
 manee: 
   name: Manee Manee
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0001-9493-619X
     - icon: fa-brands fa-github
       link: https://github.com/MManee
     - icon: fa-brands fa-linkedin  
