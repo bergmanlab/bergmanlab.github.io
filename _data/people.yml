@@ -23,6 +23,8 @@ oliver:
       link: https://orcid.org/0009-0009-4550-4425
     - icon: fa-brands fa-github
       link: https://github.com/OliverKLevine
+    - icon: fa-brands fa-bluesky
+      link: https://bsky.app/profile/caseybergman.bsky.social  
 
 ibukun:
   name: Ibukun Tella
