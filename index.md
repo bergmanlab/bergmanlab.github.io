@@ -3,9 +3,6 @@ title: "Welcome to the Bergman Lab"
 header:
   overlay_image: /assets/images/banner.png
   overlay_filter: 0.3
-  actions:
-          - label: "Join our team"
-            url: "https://bergmanlab.github.io/Join"
 ---
 
 ## The Bergman Lab
