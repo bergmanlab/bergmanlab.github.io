@@ -45,6 +45,9 @@ ibukun:
 
 parisha:
   name: Parisha Rahman
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/Parisharahman
 
 jingxuan:
   name: Jingxuan Chen
