@@ -21,5 +21,16 @@ oliver:
     - icon: fa-brands fa-github
       link: https://github.com/OliverKLevine
 
+ibukun:
+  name: Ibukun Tella
+  department: Institute of Bioinformatics, UGA
+  email: Ibukunoluwa.Tella@uga.edu
+  image: 
+  links:
+    - icon: fa-brands fa-orcid
+      link: 
+    - icon: fa-brands fa-github
+      link: https://github.com/IbukunT      
+
 parisha:
   name: Parisha Rahman
