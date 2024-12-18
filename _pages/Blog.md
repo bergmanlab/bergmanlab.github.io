@@ -2,5 +2,5 @@
 title: "Blog"
 permalink: /Blog/
 layout: posts
-author_profile: true
+author_profile: false
 ---
