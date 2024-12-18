@@ -110,6 +110,8 @@ mar:
 john: 
   name: John Jackson
   links:
+    - icon: fa-brands fa-orcid
+      link: https://orcid.org/0000-0002-4563-2840
     - icon: fa-brands fa-github
       link: https://github.com/jjackson0308
     - icon: fa-brands fa-linkedin  
