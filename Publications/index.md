@@ -5,12 +5,15 @@ title: "Publications"
 Contributions from Bergman Lab members are underlined in the publication list below. Lists of publications co-authored by Casey Bergman can be found in <a href="https://www.ncbi.nlm.nih.gov/myncbi/casey%20m.bergman.1/bibliography/public/" rel="nofollow">PubMed</a>, <a href="https://orcid.org/0000-0002-5462-9854" rel="nofollow">Orcid</a>, or <a href="https://scholar.google.com/citations?hl=en&amp;user=j9ciKqkAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" rel="nofollow">Google Scholar</a>.
 
 ## Manuscripts
+
 <span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (submitted) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. [<a href="https://www.biorxiv.org/content/10.1101/2023.12.20.572574v1">preprint</a>]
 
 ## 2024
+
 Hannon-Hatfield, J.A., <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">C.M. Bergman</span> &amp;&nbsp; D.J. Garfinkel (2024) Evolution of a restriction factor by domestication of a yeast retrotransposon. <a href="https://academic.oup.com/mbe/article/41/3/msae050/7621844" rel="nofollow"><em>Mol. Biol. Evol.</em> <strong>41</strong>:msae050</a>.
 
 ## 2023
+
 <span style="text-decoration: underline;">Chen, J.</span> (2023) <a href="https://www.proquest.com/docview/2917422789" rel="nofollow">Bioinformatics and evolutionary genomics of transposable elements in yeast.</a> Ph.D. Thesis, University of Georgia, USA.
 
 <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">P.J. Basting</span>, <span style="text-decoration: underline;">S. Han</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (2023) Reproducible evaluation of transposable element detectors with  McClintock 2 guides accurate inference of Ty insertion patterns in yeast. <a href="https://mobilednajournal.biomedcentral.com/articles/10.1186/s13100-023-00296-4" rel="nofollow"><em>Mobile DNA</em> <strong>14</strong>:8</a>.
@@ -81,6 +84,7 @@ Barsh G.S., <span style="text-decoration: underline;">C.M. Bergman</span>, C.D. 
 Miller D.E., K.R. Cook, N. Yeganeh Kazemi, C.B. Smith, A.J. Cockrell, R.S. Hawley &amp; <span style="text-decoration: underline;">C.M. Bergman</span>. (2016) Rare recombination events generate sequence diversity among balancer chromosomes in <em>Drosophila melanogaster</em>. <a href="http://www.pnas.org/content/113/10/E1352.long" rel="nofollow"><em>Proceedings of the National Acadamey of Sciences </em><strong>113</strong>:E1352-61</a>.
 
 Nelson, M.G. (2016) <a href="https://www.escholar.manchester.ac.uk/jrul/item/?pid=uk-ac-man-scw:295594" rel="nofollow">Bioinformatic approaches to detect transposable element insertions in high throughput sequence data from <em>Saccharomyces</em> and <em>Drosophila</em></a>. Ph.D. Thesis, University of Manchester, UK.
+
 ## 2015
 
 Rahman, R, G. Chirn, A. Kanodia, Y.A. Sytnikova, B. Brembs, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; N.C. Lau (2015) Unique transposon landscapes are pervasive across <em>Drosophila melanogaster</em> genomes. <em><a href="http://nar.oxfordjournals.org/content/43/22/10655.long" rel="nofollow">Nucleic Acids Research </a></em><a href="http://nar.oxfordjournals.org/content/43/22/10655.long" rel="nofollow"><strong>43</strong></a><a href="http://nar.oxfordjournals.org/content/43/22/10655.long" rel="nofollow">: 10655-10672</a>.
@@ -149,7 +153,7 @@ Gallo, S.M, <span style="text-decoration: underline;">D.T. Gerrard</span>, M. Si
 
 Kalinka, A.T., K. Varga, <span style="text-decoration: underline;">D.T. Gerrard</span>, S. Preibisch, D. Corcoran, J. Jarrells, U. Ohler, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; P. Tomancak. (2010) Gene expression divergence recapitulates the developmental hourglass model. <a href="http://www.nature.com/nature/journal/v468/n7325/full/nature09634.html" rel="nofollow"><em>Nature</em> <strong>468</strong>:811-814</a>. [See also Pavel Tomancak’s <a href="http://www.mpi-cbg.de/en/research/research-groups/pavel-tomancak/in-the-news.html" rel="nofollow">round-up of media coverage</a> on this article] [News and Views in<a href="http://www.nature.com/nature/journal/v468/n7325/full/468768a.html" rel="nofollow"> <em>Nature</em></a>] [Listen also to Henry Gee discuss this work on the <em>Nature</em> <a href="http://media.nature.com/download/nature/nature/podcast/v468/n7325/nature-2010-12-09.mp3" rel="nofollow">podcast</a>.]
 
-<a href="http://bergmanlab.uga.edu/wp-content/uploads/2010/02/cover_nature.jpg"><img decoding="async" class="alignnone size-full wp-image-106" title="12GenomesCover" src="Publications%20@%20Bergman%20Lab_files/cover_nature.jpg" alt="" width="150" height="200"></a>
+![image](../assets/images/cover_nature.jpg)
 
 Solt, I., <span style="text-decoration: underline;">M. Gerner</span>, P. Thomas, G. Nenadic, <span style="text-decoration: underline;">C.M. Bergman</span>, U. Leser &amp; J. Hakenberg (2010) Gene mention normalization in full texts using GNAT and LINNAEUS.<em> <a href="http://www.biocreative.org/media/store/files/2011/BioCreative_III_Proceedings_.pdf" rel="nofollow">Proceedings of the BioCreative III Workshop pp 134-139</a></em>.
 
@@ -170,6 +174,7 @@ Sackton T.B., R.J. Kulathinal, <span style="text-decoration: underline;">C.M. Be
 Yang H., J. Keane, <span style="text-decoration: underline;">C.M. Bergman</span>, G. Nenadic. (2009) Assigning roles to protein mentions: the case of transcription factors. <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WHD-4W2121B-1&amp;_user=121749&amp;_coverDate=10%2F31%2F2009&amp;_rdoc=16&amp;_fmt=high&amp;_orig=browse&amp;_srch=doc-info(%23toc%236848%232009%23999579994%231528180%23FLA%23display%23Volume)&amp;_cdi=6848&amp;_sort=d&amp;_docanchor=&amp;_ct=23&amp;_acct=C000024058&amp;_version=1&amp;_urlVersion=0&amp;_userid=121749&amp;md5=b113aee9595e5e7464160811fab9c91c" rel="nofollow"> <em>Journal of Biomedical Informatics</em> <strong>42</strong>:887-894</a>.
 
 Liti, G.,D.M. Carter, A.M. Moses, J. Warringer, L. Parts, S.A. James, R.P. Davey, I.N. Roberts, A. Burt, V. Koufopanou, I.J. Tsai, <span style="text-decoration: underline;">C.M. Bergman</span>, D. Bensasson, M.J.T. O’Kelly, A. van Oudenaarden, D.B.H. Barton, E. Bailes, A.N. Nguyen, M. Jones, M.A. Quail, I. Goodhead, S. Sims, F. Smith, A. Blomberg, R. Durbin &amp; E.J. Louis (2009) Population genomics of domestic and wild yeasts. <a href="http://www.nature.com/nature/journal/v458/n7236/full/nature07743.html" rel="nofollow"><em>Nature</em> <strong>458</strong>:337-341</a>. [See also: <a href="http://www.sanger.ac.uk/research/projects/genomeinformatics/sgrp.html" rel="nofollow">web companion</a>] [Editor’s Note in <a href="http://www.nature.com/nature/journal/v458/n7236/edsumm/e090319-10.html" rel="nofollow"><em>Nature</em></a>] [Commentary in <a href="http://planetearth.nerc.ac.uk/features/story.aspx?id=579" rel="nofollow">Planet Earth</a>]
+
 ## 2008
 
 <span style="text-decoration: underline;">Linheiro, R.S.</span> &amp; <span style="text-decoration: underline;">C.M. Bergman</span>. (2008) Testing the palindromic target site model for DNA transposon insertion using the <em>Drosophila melanogaster</em> P-element. <a href="http://nar.oxfordjournals.org/cgi/content/full/36/19/6199" rel="nofollow"><em>Nucleic Acids Research </em><strong>36</strong>:6199-6208</a>.
@@ -188,7 +193,7 @@ Griffith O.L., S.B. Montgomery, B. Bernier, B. Chu, S. Aerts, M.C. Sleumer, M. B
 
 <em>Drosophila</em> 12 Genomes Consortium. (2007) Evolution of genes and genomes on the <em>Drosophila</em> phylogeny. <a href="http://www.nature.com/nature/journal/v450/n7167/abs/nature06341.html" rel="nofollow"><em>Nature</em> <strong>450</strong>:203-218</a>. [News and Views in <a href="http://www.nature.com/nature/journal/v450/n7167/full/450184a.html" rel="nofollow"><em>Nature</em></a>] [Commentary in <a href="http://blogs.openaccesscentral.com/blogs/bmcblog/entry/drosopholid_genome_studies_published" rel="nofollow"><em>BMC</em></a>] [Commentary in <a href="http://www.cell.com/abstract/S0092-8674%2807%2901599-1" rel="nofollow"><em>Cell</em></a>] [Commentary in <a href="http://www.nature.com/hdy/journal/v100/n4/abs/6801084a.html" rel="nofollow"><em>Heredity</em></a>] [Commentary in <a href="http://www.sciencemag.org/cgi/content/short/318/5852/903" rel="nofollow"><em>Science</em></a>] [See also: Andy Clark’s NISC 10th Anniversary Symposium <a href="http://www.youtube.com/watch?v=V3j_Ec0RjeA" rel="nofollow">presentation</a> on YouTube’s GenomeTV channel] [Listen also: to <a href="https://bergmanlab.uga.edu/publications/12genomesRadio4.mp3">segment</a> on Radio 4’s Today Programme or Nature’s <a href="https://bergmanlab.uga.edu/publications/12genomesNaturePodcast.mp3">podcast</a>.]
 
-<a href="http://bergmanlab.uga.edu/wp-content/uploads/2010/02/12GenomesCover.jpg"><img decoding="async" class="alignnone size-full wp-image-106" title="12GenomesCover" src="Publications%20@%20Bergman%20Lab_files/12GenomesCover.jpg" alt="" width="150" height="200"></a>
+![image](../assets/images/12GenomesCover.jpg)
 
 <span style="text-decoration: underline;">Casillas, S.</span>, R. Egea, N. Petit, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; A. Barbadilla. (2007) <em>Drosophila</em> Polymorphism Database (DPDB): a portal for nucleotide polymorphism in <em>Drosophila</em>. <a href="http://www.landesbioscience.com/journals/fly/article/5043" rel="nofollow"><em>Fly</em> <strong>1</strong>:4, e1-e7</a>. [See also: <a href="http://dpdb.uab.es/dpdb/dpdb.asp" rel="nofollow">web companion</a>]
 
@@ -199,11 +204,12 @@ Griffith O.L., S.B. Montgomery, B. Bernier, B. Chu, S. Aerts, M.C. Sleumer, M. B
 Ranz, J.M., D. Maurin, Y.S. Chan, M. von Grotthuss, L.W. Hillier, J. Roote, M. Ashburner &amp; <span style="text-decoration: underline;">C.M. Bergman</span>. (2007) Principles of genome evolution in the <em>Drosophila melanogaster</em> species group. <a href="http://biology.plosjournals.org/perlserv/?request=get-document&amp;doi=10.1371/journal.pbio.0050152" rel="nofollow"><em>PLoS Biology </em><strong>5</strong>:e152</a>. [See also: commentary in <a href="http://www.nature.com/hdy/journal/v99/n5/abs/6801046a.html" rel="nofollow"><em>Heredity</em></a>]
 
 Down, T.A., <span style="text-decoration: underline;">C.M. Bergman</span>, J. Su &amp; T.J.P. Hubbard. (2007) Large scale discovery of promoter motifs in<em> Drosophila melanogaster</em>. <a href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.0030007" rel="nofollow"><em>PLoS Computational Biology </em><strong>3</strong>:e7</a> [See also: <a href="http://servlet.sanger.ac.uk/tiffin/index.jsp" rel="nofollow">web companion</a>]
+
 ## 2006
 
 <span style="text-decoration: underline;">Bergman, C.M.</span>, H. Quesneville, D. Anxolabéhère &amp; M. Ashburner. (2006) Recurrent insertion and duplication generate networks of transposable element sequences in the <em>Drosophila melanogaster </em>genome. <a href="http://genomebiology.com/2006/7/11/R112" rel="nofollow"><em>Genome Biology</em> <strong>7</strong>:R112</a>.
 
-<a href="http://bergmanlab.uga.edu/wp-content/uploads/2010/02/GenomeBiology2006Cover.gif"><img decoding="async" class="alignnone size-full wp-image-108" title="GenomeBiology2006Cover" src="Publications%20@%20Bergman%20Lab_files/GenomeBiology2006Cover.gif" alt="" width="145" height="189"></a>
+![image](../assets/images/GenomeBiology2006Cover.gif)
 
 <span style="text-decoration: underline;">Pierstorff, N.</span>, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Wiehe. (2006) Identifying <em>cis</em>-regulatory modules by combining comparative and compositional analysis of DNA. <a href="http://bioinformatics.oxfordjournals.org/cgi/content/full/22/23/2858" rel="nofollow"><em>Bioinformatics </em><strong>22</strong>:2858-2864</a>.
 
@@ -227,6 +233,7 @@ Ludwig, M.Z., A. Palsson, E. Alekseeva, <span style="text-decoration: underline;
 Pollard, D.A., <span style="text-decoration: underline;">C.M. Bergman</span>, J. Stoye, S.E. Celniker &amp; M.B. Eisen. (2004) Benchmarking tools for the alignment of functional noncoding DNA. <a href="http://www.biomedcentral.com/1471-2105/5/6" rel="nofollow"><em>BMC Bioinformatics</em> <strong>5</strong>:6</a>. [See also: <a href="http://rana.lbl.gov/AlignmentBenchmarking" rel="nofollow">web companion</a>.] [Note: <a href="http://www.biomedcentral.com/1471-2105/5/73" rel="nofollow">correction</a>.] [<a href="http://www.biomedcentral.com/info/about/mostviewed/" rel="nofollow">Highly Accessed</a> Article] [Selected by Thomson-ISI as a Essential Science Indicator (ESI) “<a href="http://esi-topics.com/nhp/2005/january-05-CaseyBergman.html" rel="nofollow">New Hot Paper</a>.”]
 
 <span style="text-decoration: underline;">Bergman, C.M.</span> &amp; N.H. Patel. (2004) The evolution of gene regulation: approaches and implications. In: <a href="http://www.oup.com/uk/catalogue/?ci=9780198515425" rel="nofollow"><em>Evolution: From Molecules to Ecosystems</em> pp. 48-58</a> (ISBN: 0-19-851542-1). Moya, A. and E. Font, eds. Oxford University Press, Oxford, UK.
+
 ## 2003
 
 Johnson, A.N., <span style="text-decoration: underline;">C.M. Bergman</span>, M. Kreitman &amp; S.J. Newfeld. (2003) Embryonic enhancers in the <em>dpp</em> disk region regulate a second round of Dpp signaling from the dorsal ectoderm to the mesoderm that represses <em>Zfh-1</em> expression in a subset of pericardial cells. <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6WDG-496NJT7-1&amp;_user=494590&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000024058&amp;_version=1&amp;_urlVersion=0&amp;_userid=494590&amp;md5=0a4454ecadc9be6a08c8db1a6c1e259d" rel="nofollow"><em>Developmental Biology</em> <strong>262</strong>:137-51</a>.
@@ -239,7 +246,7 @@ Dermitzakis, E.T., <span style="text-decoration: underline;">C.M. Bergman</span>
 
 Kaminker, J.S., <span style="text-decoration: underline;">C.M. Bergman</span>, B. Kronmiller, J. Carlson, R. Svirskas, S. Patel, E. Frise, D.A. Wheeler, S. Lewis, G.M. Rubin, M. Ashburner &amp; S.E. Celniker. (2002) The transposable elements of the <em>Drosophila melanogaster</em> euchromatin: a genomics perspective. <a href="http://genomebiology.com/2002/3/12/RESEARCH/0084" rel="nofollow"><em>Genome Biology</em> <strong>3</strong>:RESEARCH0084</a>. [See also: <a href="http://www.fruitfly.org/p_disrupt/TE.html" rel="nofollow">web companion</a>.] [<a href="http://www.biomedcentral.com/info/about/mostviewed/" rel="nofollow">Highly Accessed</a> Article]
 
-<a href="http://bergmanlab.uga.edu/wp-content/uploads/2010/02/GenomeBiology2002Cover.jpg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-109" title="GenomeBiology2002Cover" src="Publications%20@%20Bergman%20Lab_files/GenomeBiology2002Cover.jpg" alt="" width="145" height="189"></a>
+![image](../assets/images/GenomeBiology2002Cover.jpg width="200")
 
 ## 2001
 
