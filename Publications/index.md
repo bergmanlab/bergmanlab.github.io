@@ -4,13 +4,17 @@ title: "Publications"
 
 Contributions from Bergman Lab members are underlined in the publication list below. Lists of publications co-authored by Casey Bergman can be found in <a href="https://www.ncbi.nlm.nih.gov/myncbi/casey%20m.bergman.1/bibliography/public/" >PubMed</a>, <a href="https://orcid.org/0000-0002-5462-9854" >Orcid</a>, or <a href="https://scholar.google.com/citations?hl=en&amp;user=j9ciKqkAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" >Google Scholar</a>.
 
+<!---
 ## Manuscripts
+-->
 
-<span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (submitted) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. [<a href="https://www.biorxiv.org/content/10.1101/2023.12.20.572574v1">preprint</a>]
+## 2025
+
+<span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (in press) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. [<a href="https://www.biorxiv.org/content/10.1101/2023.12.20.572574v1">Genome Biology and Evolution</a>]
 
 ## 2024
 
-Hannon-Hatfield, J.A., <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">C.M. Bergman</span> &amp;&nbsp; D.J. Garfinkel (2024) Evolution of a restriction factor by domestication of a yeast retrotransposon. <a href="https://academic.oup.com/mbe/article/41/3/msae050/7621844" ><em>Mol. Biol. Evol.</em> <strong>41</strong>:msae050</a>.
+Hannon-Hatfield, J.A., <span style="text-decoration: underline;">Chen, J.</span>, <span style="text-decoration: underline;">C.M. Bergman</span> &amp;&nbsp; D.J. Garfinkel (2024) Evolution of a restriction factor by domestication of a yeast retrotransposon. <a href="https://academic.oup.com/mbe/article/41/3/msae050/7621844" ><em>Molecular Biology and Evolution</em> <strong>41</strong>:msae050</a>.
 
 ## 2023
 
