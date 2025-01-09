@@ -10,7 +10,7 @@ Contributions from Bergman Lab members are underlined in the publication list be
 
 ## 2025
 
-<span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (in press) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. [<a href="https://www.biorxiv.org/content/10.1101/2023.12.20.572574v1">Genome Biology and Evolution</a>]
+<span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (in press) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. [<a href="https://doi.org/10.1093/gbe/evaf004">Genome Biology and Evolution</a>]
 
 ## 2024
 
