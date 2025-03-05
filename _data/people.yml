@@ -197,6 +197,7 @@ pedro:
 
 martin:
   name: Martin Gerner
+  links:
     - icon: fa-brands fa-linkedin  
       link: https://www.linkedin.com/in/mrating/
 
