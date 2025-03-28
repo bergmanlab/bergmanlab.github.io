@@ -14,5 +14,5 @@ The basic rationale underlying research in the lab is that evolutionary processe
 We place a high priority on collaboration, scholarship, craftsmanship and openness in the lab, and welcome inquries about <a href="https://bergmanlab.github.io/Join">joining the lab</a> or new projects with experimental or computer scientists. For more information, please visit our <a href="https://bergmanlab.github.io/Research/">Research</a> or <a href="https://bergmanlab.github.io/Publications/">Publications</a> pages, <a href="mailto:cbergman@uga.edu">contact me </a> by email or visit us in the Davison Life Sciences Building (building 1057 on the UGA <a href="https://www.architects.uga.edu/CampusMap/">campus map</a> or click the Bergman Lab link on <a href="https://www.google.com/maps/d/edit?mid=18qipZmt5okzQoqViWBhVANcf1zI&amp;hl=en&amp;gl=uk&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;ll=4.86425437443669%2C-22.25342950000004&amp;spn=14.577229%2C39.462891&amp;z=3">Google Maps</a>).
 
 Check out our work and stay up to date at:
-* [Bergman Lab Twitter](https://twitter.com/bergmanlab)
+* [Bergman Lab BlueSky](https://bsky.app/profile/bergmanlab.bsky.social)
 * [Bergman Lab Github](https://github.com/bergmanlab)

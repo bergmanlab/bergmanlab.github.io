@@ -139,9 +139,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/bergmanlab.bsky.social
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/bergmanlab
+      #url: https://twitter.com/bergmanlab
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -157,7 +160,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
 
 # Reading Files
 include:

@@ -26,7 +26,7 @@ oliver:
     - icon: fa-brands fa-github
       link: https://github.com/OliverKLevine
     - icon: fa-brands fa-bluesky
-      link: https://bsky.app/profile/caseybergman.bsky.social  
+      link: https://bsky.app/profile/oliverlevine.bsky.social
 
 ibukun:
   name: Ibukun Tella
@@ -90,8 +90,8 @@ shunhua:
       link: https://github.com/shunhuahan
     - icon: fa-brands fa-linkedin  
       link: https://www.linkedin.com/in/shunhua-han/      
-    - icon: fa-brands fa-twitter
-      link: https://x.com/hanshunhua
+    - icon: fa-brands fa-bluesky
+      link: https://bsky.app/profile/shunhuahan.bsky.social
 
 mar: 
   name: Mar Marzo
