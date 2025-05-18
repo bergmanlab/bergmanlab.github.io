@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-## Pest, Pathogen Vector, and Parasite Genomics
+## Pest, Vector, and Parasite Genomics
 As genome sequencing technologies have matured, it is now possible to generate high-quality genome assemblies and functional genomics data in virtually all organisms, including non-model pest, pathogen vector and parasitic organisms. Our lab is currently contributing to genome projects and functional genomics analyses in insect pests (the red palm weevil *Rhynchophorus ferrugineus*), pathogen vectors (kissing bugs in the genus *Rhodnius*), and parasites (the rat tapeworm *Hymenolepis diminuta*).
 
 ## Genome Evolution
