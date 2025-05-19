@@ -1,5 +1,5 @@
 ---
-title: "Ibukun Tella, Oliver Levine and Saurav Choudhary present poster at the IOB Retreat"
+title: "Ibukun Tella, Oliver Levine and Saurav Choudhary present posters at the IOB Retreat"
 authors:
 - casey
 tagline: " "
