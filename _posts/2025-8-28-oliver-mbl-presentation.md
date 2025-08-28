@@ -1,5 +1,5 @@
 ---
-title: "Oliver Levine and Casey Bergman present posters at the 2025 Evolution Meeting"
+title: "Oliver Levine present at the 2025 Woods Hole Conferences on Mobile Genetic Elements"
 authors:
 - casey
 tagline: " "
