@@ -47,6 +47,18 @@ parisha:
     - icon: fa-brands fa-github
       link: https://github.com/Parisharahman
 
+griffin:
+  name: Griffin Robinson
+  links:
+    - icon: fa-brands fa-github
+      link: https://github.com/GriffRob1
+
+harshini:
+  name: Harshini Bavisetti 
+  links:
+    - icon: fa-brands fa-linkedin
+      link: https://www.linkedin.com/in/harshini-bavisetti-686078296/
+
 jingxuan:
   name: Jingxuan Chen
   links:

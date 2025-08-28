@@ -16,6 +16,10 @@ title: "Lab Members"
 
 {% include person.html name='parisha' %}
 
+{% include person.html name='griffin' %}
+
+{% include person.html name='harshani' %}
+
 ## Former Lab Members
 
 {% include person.html name='jingxuan' %}
