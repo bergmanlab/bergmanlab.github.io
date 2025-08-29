@@ -1,5 +1,5 @@
 ---
-title: "Oliver Levine present at the 2025 Woods Hole Conferences on Mobile Genetic Elements"
+title: "Oliver Levine presents at the 2025 Woods Hole Conferences on Mobile Genetic Elements"
 authors:
 - casey
 tagline: " "
