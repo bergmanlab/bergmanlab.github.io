@@ -8,6 +8,13 @@ Contributions from Bergman Lab members are underlined in the publication list be
 ## Manuscripts
 -->
 
+## 2026
+
+Choudhary, S.K., N. Sundaresha, K. Ye <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (in prep) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. 
+<!---
+<a href="https://academic.oup.com/gbe/article/17/1/evaf004/7950627"><em>Genome Biology and Evolution</em> <strong>17</strong>:evaf004</a>.
+-->
+
 ## 2025
 
 <span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (2025) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. <a href="https://academic.oup.com/gbe/article/17/1/evaf004/7950627"><em>Genome Biology and Evolution</em> <strong>17</strong>:evaf004</a>.

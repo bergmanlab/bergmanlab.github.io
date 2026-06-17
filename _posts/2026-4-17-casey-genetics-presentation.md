@@ -1,5 +1,5 @@
 ---
-title: "Oliver Levine presents talk at 2026 MemPanG26"
+title: "Casey Bergman presents EDGE Seminar"
 authors:
 - casey
 tagline: " "
