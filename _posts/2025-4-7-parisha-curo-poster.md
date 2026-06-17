@@ -1,5 +1,5 @@
 ---
-title: "Parisha Rahman presents poster at CURO Research Symposium"
+title: "Parisha Rahman presents poster at 2025 CURO Research Symposium"
 authors:
 - casey
 tagline: " "
