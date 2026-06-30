@@ -10,10 +10,8 @@ Contributions from Bergman Lab members are underlined in the publication list be
 
 ## 2026
 
-Choudhary, S.K., N. Sundaresha, K. Ye <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (in prep) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. 
-<!---
-<a href="https://academic.oup.com/gbe/article/17/1/evaf004/7950627"><em>Genome Biology and Evolution</em> <strong>17</strong>:evaf004</a>.
--->
+Choudhary, S.K., N. Sundaresha, K. Ye, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (submitted) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. <a href="https://www.biorxiv.org/content/10.64898/2026.06.23.734100v1"><em>Biorxiv</em></a>.
+
 
 ## 2025
 
