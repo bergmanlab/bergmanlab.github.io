@@ -14,11 +14,11 @@ title: "Lab Members"
 
 ## Undergraduate Students
 
-{% include person.html name='parisha' %}
-
 {% include person.html name='griffin' %}
 
 ## Former Lab Members
+
+{% include person.html name='parisha' %}
 
 {% include person.html name='jingxuan' %}
 

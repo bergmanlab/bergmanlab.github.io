@@ -4,16 +4,18 @@ title: "Publications"
 
 Contributions from Bergman Lab members are underlined in the publication list below. Lists of publications co-authored by Casey Bergman can be found in <a href="https://www.ncbi.nlm.nih.gov/myncbi/casey%20m.bergman.1/bibliography/public/" >PubMed</a>, <a href="https://orcid.org/0000-0002-5462-9854" >Orcid</a>, or <a href="https://scholar.google.com/citations?hl=en&amp;user=j9ciKqkAAAAJ&amp;view_op=list_works&amp;sortby=pubdate" >Google Scholar</a>.
 
-<!---
 ## Manuscripts
--->
+
+Cox, R., N. Sundaresha, J. Bai, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; Y.-Y.C. Mosley (in prep) Oxford Nanopore adaptive sampling enables whole genome assembly and identification of <em>Anaplasma marginale</em> variants from bovine blood. 
 
 ## 2026
 
-Choudhary, S.K., N. Sundaresha, K. Ye, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (submitted) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. <a href="https://www.biorxiv.org/content/10.64898/2026.06.23.734100v1"><em>Biorxiv</em></a>.
+Choudhary, S.K., N. Sundaresha, K. Ye, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (submitted) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. <a href="https://www.biorxiv.org/content/10.64898/2026.06.23.734100v1"><em>G3 (in press)</em></a>.
 
 
 ## 2025
+
+Mosley, Y.-Y. &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (2025) A Smarter Way to Sequence Bloodborne Pathogens: Using MinION to Target <em>Anaplasma</em> in Cattle Blood. <a href="https://simplebooklet.com/vmes2025#page=19">The University of Georgia Veterinary Medical Experiment Station 2025 Annual Report</a>.
 
 <span style="text-decoration: underline;">Chen, J.</span>, D.J. Garfinkel &amp; <span style="text-decoration: underline;">C.M. Bergman</span> (2025) Horizontal transfer and recombination fuel Ty4 retrotransposon evolution in <em>Saccharomyces</em>. <a href="https://academic.oup.com/gbe/article/17/1/evaf004/7950627"><em>Genome Biology and Evolution</em> <strong>17</strong>:evaf004</a>.
 
