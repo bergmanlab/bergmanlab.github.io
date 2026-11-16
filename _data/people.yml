@@ -6,7 +6,7 @@ casey:
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0000-0002-5462-9854
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/casey-bergman-339547/     
     - icon: fa-brands fa-github
       link: https://github.com/cbergman
@@ -21,7 +21,7 @@ oliver:
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0009-0009-4550-4425
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/oliver-levine-557036273/
     - icon: fa-brands fa-github
       link: https://github.com/OliverKLevine
@@ -36,7 +36,7 @@ ibukun:
   links:
     - icon: fa-brands fa-orcid
       link: https://orcid.org/0009-0008-1970-7301
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/ibukunoluwa-tella/     
     - icon: fa-brands fa-github
       link: https://github.com/IbukunT      
@@ -60,7 +60,7 @@ jingxuan:
       link: https://orcid.org/0000-0001-6313-7264
     - icon: fa-brands fa-github
       link: https://github.com/JingxuanChen7
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/jingxuan-chen712/            
     - icon: fa-brands fa-twitter
       link: https://x.com/JingxuanChen712
@@ -72,7 +72,7 @@ preston:
       link: https://orcid.org/0000-0001-9290-8339
     - icon: fa-brands fa-github
       link: https://github.com/pbasting
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/preston-basting-6a0b00167/       
 
 gui: 
@@ -82,7 +82,7 @@ gui:
       link: https://orcid.org/0000-0002-1459-3148
     - icon: fa-brands fa-github
       link: https://github.com/gbdias
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/guilherme-dias-53529b7b/          
     - icon: fa-brands fa-twitter
       link: https://x.com/guilherme_diasb
@@ -94,7 +94,7 @@ shunhua:
       link: https://orcid.org/0000-0002-8605-7547  
     - icon: fa-brands fa-github
       link: https://github.com/shunhuahan
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/shunhua-han/      
     - icon: fa-brands fa-bluesky
       link: https://bsky.app/profile/shunhuahan.bsky.social
@@ -106,7 +106,7 @@ mar:
       link: https://orcid.org/0000-0003-1591-0309  
     - icon: fa-brands fa-github
       link: https://github.com/mmarzo
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/mar-marzo-1290664/    
     - icon: fa-brands fa-twitter
       link: https://x.com/nunatac
@@ -118,7 +118,7 @@ john:
       link: https://orcid.org/0000-0002-4563-2840
     - icon: fa-brands fa-github
       link: https://github.com/jjackson0308
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/john-jackson-b7140586/
 
 florence: 
@@ -126,7 +126,7 @@ florence:
   links:
     - icon: fa-brands fa-github
       link: https://github.com/mqbpjfg2
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/florence-gutzwiller-506765200/
     - icon: fa-brands fa-twitter
       link: https://x.com/Florence_Gtz
@@ -138,7 +138,7 @@ manee:
       link: https://orcid.org/0000-0001-9493-619X
     - icon: fa-brands fa-github
       link: https://github.com/MManee
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/manee-manee/
     - icon: fa-brands fa-twitter
       link: https://x.com/eng_manee
@@ -148,7 +148,7 @@ michael-n:
   links:
     - icon: fa-brands fa-github
       link: https://github.com/nelson42
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/nelson42/
     - icon: fa-brands fa-twitter
       link: https://x.com/nels42
@@ -156,7 +156,7 @@ michael-n:
 dave:
   name: Dave Gerrard
   links:
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/dave-gerrard-30105836/
     - icon: fa-brands fa-twitter
       link: https://x.com/ginReaper
@@ -166,7 +166,7 @@ max:
   links:
     - icon: fa-brands fa-github
       link: https://github.com/maximilianh
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/maximilian-haeussler-4824954/
     - icon: fa-brands fa-twitter
       link: https://x.com/maximilianh
@@ -176,7 +176,7 @@ joachim:
   links:
     - icon: fa-brands fa-github
       link: https://github.com/KimJBaran
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/joachim-baran-22594745/
 
 mark:
@@ -191,26 +191,27 @@ laurent:
   name: Laurent Frantz
   links:
     - icon: fa-brands fa-twitter
-      link: https://x.com/LrFrantz  
+      link: https://x.com/LrFrantz
 
 miaomiao:
-  name: Mioamiao He
+  name: Miaomiao He
 
 pedro:
   name: Pedro Olivares-Chauvet
-    - icon: fa-brands fa-linkedin  
+  links:
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/pedro-olivares-506a13374/
 
 martin:
   name: Martin Gerner
   links:
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/mrating/
 
 jamie:
   name: Jamie McPherson
   links:
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/jamie-macpherson-0531442a/
 
 raquel: 
@@ -218,7 +219,7 @@ raquel:
   links:
     - icon: fa-brands fa-github
       link: https://github.com/raquel-linheiro
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/raquel-linheiro-50883873/
     - icon: fa-brands fa-twitter
       link: https://x.com/raqueldsl95
@@ -228,7 +229,7 @@ michael-b:
   links:
     - icon: fa-brands fa-github
       link: https://github.com/michaelbarton
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/michael-barton-70bb7716/
     - icon: fa-brands fa-twitter
       link: https://x.com/bioinformatics
@@ -236,7 +237,7 @@ michael-b:
 sonia: 
   name: Sonia Casillas
   links:
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/s%C3%B2nia-casillas-571b0b115/
     - icon: fa-brands fa-twitter
       link: https://x.com/scasillasv     
@@ -244,13 +245,13 @@ sonia:
 nora: 
   name: Nora Pierstorff
   links:
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/nora-pierstorff-302640158/
          
 francesco:
   name: Francesco Catania
   links:
-    - icon: fa-brands fa-linkedin  
+    - icon: fa-brands fa-linkedin
       link: https://www.linkedin.com/in/francesco-catania-68319b1a4/
 
 winfried:
