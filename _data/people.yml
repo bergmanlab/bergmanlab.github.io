@@ -198,6 +198,8 @@ miaomiao:
 
 pedro:
   name: Pedro Olivares-Chauvet
+    - icon: fa-brands fa-linkedin  
+      link: https://www.linkedin.com/in/pedro-olivares-506a13374/
 
 martin:
   name: Martin Gerner

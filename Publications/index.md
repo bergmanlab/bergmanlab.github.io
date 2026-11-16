@@ -10,7 +10,7 @@ Cox, R., N. Sundaresha, J. Bai, <span style="text-decoration: underline;">C.M. B
 
 ## 2026
 
-Choudhary, S.K., N. Sundaresha, K. Ye, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (submitted) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. <a href="https://doi.org/10.1093/g3journal/jkag298"><em>G3 (in press)</em></a>.
+Choudhary, S.K., N. Sundaresha, K. Ye, <span style="text-decoration: underline;">C.M. Bergman</span> &amp; T. Rozario (2026) Assembly of a high-quality reference genome for the rat tapeworm <em>Hymenolepis diminuta</em>. <a href="https://doi.org/10.1093/g3journal/jkag298"><em>G3 (in press)</em></a>.
 
 
 ## 2025
